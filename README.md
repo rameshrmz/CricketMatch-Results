@@ -1,5 +1,5 @@
 
-Simple Cricket Match Result Visualization
+Cricket Match Result Visualization:
 
 This Repo contain 2 kinds of Code to develop below mentioned Graphs:
   1) Match Analysis and Score Comparision Graph
