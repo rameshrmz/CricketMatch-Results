@@ -2,7 +2,7 @@
 # Cricket Match Result Visualization:
 ***
 
-This package contains 2 kind of Code to develop graph for Cricket Match Result:
+This package contains code to develop 2 kind of grpahs related to Cricket Match Result:
 
   *Match Analysis and Score Comparision Graph*
   ---
